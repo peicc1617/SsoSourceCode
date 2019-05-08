@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03cfbaab-77b0-4ef3-9027-fa3d978cedc4" name="Default Changelist" comment="" />
+    <list default="true" id="03cfbaab-77b0-4ef3-9027-fa3d978cedc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-9.0.13/logs/catalina.2019-05-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-9.0.13/logs/catalina.2019-05-08.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-9.0.13/logs/localhost.2019-05-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-9.0.13/logs/localhost.2019-05-08.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-9.0.13/logs/localhost_access_log.2019-05-08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-9.0.13/logs/localhost_access_log.2019-05-08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-9.0.13/webresources" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-9.0.13/webresources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tomcat-sso" beforeDir="false" afterPath="$PROJECT_DIR$/../tomcat-sso" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/xjtucad/SSOManager1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#660#661#0" expanded="true" />
@@ -141,7 +147,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webresources" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -204,7 +210,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1608" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
@@ -222,85 +228,6 @@
           <expand>
             <path>
               <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="SSO_Test_jar2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="SSO_Test_jar2" type="462c0819:PsiDirectoryNode" />
-              <item name="SSO-Test.jar" type="ab9368bb:PsiFileNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="SSO_Test_jar2" type="462c0819:PsiDirectoryNode" />
-              <item name="SSO-Test.jar" type="ab9368bb:PsiFileNode" />
-              <item name="xjtucad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xjtucad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xjtucad" type="462c0819:PsiDirectoryNode" />
-              <item name="valve" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSO-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSO-Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -314,14 +241,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557313320860" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557313825052" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/SSO_Test_jar2/SSO-Test.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36930233" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -440,12 +367,12 @@
       <workItem from="1557212646658" duration="15708000" />
       <workItem from="1557234190031" duration="2500000" />
       <workItem from="1557278132060" duration="5063000" />
-      <workItem from="1557283245863" duration="18627000" />
+      <workItem from="1557283245863" duration="19181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41898000" />
+    <option name="totallyTimeSpent" value="42452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,9 +385,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" weight="0.20694087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.13239075" />
       <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.17416452" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -470,7 +396,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07660167" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07660167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21866295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -783,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xjtucad/SSOManager1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />

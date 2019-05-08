@@ -291,3 +291,7 @@
 0:0:0:0:0:0:0:1 - - [08/May/2019:17:01:49 +0800] "GET /webresources/userLogin.jsp HTTP/1.1" 200 10295
 0:0:0:0:0:0:0:1 - - [08/May/2019:17:01:49 +0800] "GET /webresources/ace-master/assets/css/images/pattern.jpg HTTP/1.1" 404 1147
 0:0:0:0:0:0:0:1 - - [08/May/2019:17:01:53 +0800] "POST /webresources/user/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/May/2019:18:57:07 +0800] "GET /user/login HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [08/May/2019:18:57:16 +0800] "GET /webresources/userLogin.jsp HTTP/1.1" 200 10295
+0:0:0:0:0:0:0:1 - - [08/May/2019:18:57:16 +0800] "GET /webresources/ace-master/assets/css/images/pattern.jpg HTTP/1.1" 404 1147
+0:0:0:0:0:0:0:1 - - [08/May/2019:18:57:16 +0800] "GET /favicon.ico HTTP/1.1" 404 1085

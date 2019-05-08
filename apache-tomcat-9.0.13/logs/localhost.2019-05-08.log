@@ -570,3 +570,6 @@ Stacktrace:
 08-May-2019 17:10:29.817 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
 08-May-2019 17:10:29.817 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
 08-May-2019 17:10:29.818 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@56febdc')
+08-May-2019 18:56:42.155 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 18:56:42.155 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 18:56:42.156 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@56febdc')
