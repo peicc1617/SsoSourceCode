@@ -1,0 +1,208 @@
+07-May-2019 21:08:01.239 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.13
+07-May-2019 21:08:01.242 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 2 2018 14:27:55 UTC
+07-May-2019 21:08:01.242 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.13.0
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:08:01.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:08:01.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\conf\logging.properties
+07-May-2019 21:08:01.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2019 21:08:01.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-May-2019 21:08:01.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-May-2019 21:08:01.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-May-2019 21:08:01.245 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:08:01.245 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:08:01.245 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\temp
+07-May-2019 21:08:01.246 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+07-May-2019 21:08:01.246 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-May-2019 21:08:01.246 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2019 21:08:01.388 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+07-May-2019 21:08:01.517 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:08:01.623 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:08:01.682 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:08:01.684 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:08:01.685 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1028 ms
+07-May-2019 21:08:01.762 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2019 21:08:01.762 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.13
+07-May-2019 21:08:01.962 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:02.045 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs]
+07-May-2019 21:08:02.134 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:02.139 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs] has finished in [93] ms
+07-May-2019 21:08:02.140 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples]
+07-May-2019 21:08:03.125 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:03.157 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples] has finished in [1,018] ms
+07-May-2019 21:08:03.157 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager]
+07-May-2019 21:08:03.212 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:03.218 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager] has finished in [61] ms
+07-May-2019 21:08:03.219 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager]
+07-May-2019 21:08:03.263 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:03.265 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager] has finished in [46] ms
+07-May-2019 21:08:03.266 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT]
+07-May-2019 21:08:04.883 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:05.220 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT] has finished in [1,954] ms
+07-May-2019 21:08:05.221 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war]
+07-May-2019 21:08:06.397 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:08:06.758 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war] has finished in [1,537] ms
+07-May-2019 21:08:06.760 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:08:06.796 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:08:06.798 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5112 ms
+07-May-2019 21:17:04.524 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.13
+07-May-2019 21:17:04.527 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 2 2018 14:27:55 UTC
+07-May-2019 21:17:04.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.13.0
+07-May-2019 21:17:04.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-May-2019 21:17:04.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2019 21:17:04.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2019 21:17:04.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+07-May-2019 21:17:04.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+07-May-2019 21:17:04.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2019 21:17:04.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:17:04.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:17:04.530 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\conf\logging.properties
+07-May-2019 21:17:04.530 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2019 21:17:04.530 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-May-2019 21:17:04.530 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-May-2019 21:17:04.530 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-May-2019 21:17:04.530 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:17:04.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:17:04.532 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\temp
+07-May-2019 21:17:04.532 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+07-May-2019 21:17:04.532 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-May-2019 21:17:04.532 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2019 21:17:04.537 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+07-May-2019 21:17:04.640 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:17:04.746 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:17:04.761 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:17:04.763 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:17:04.765 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 536 ms
+07-May-2019 21:17:04.792 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2019 21:17:04.792 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.13
+07-May-2019 21:17:05.657 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:05.698 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs]
+07-May-2019 21:17:06.273 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:06.289 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs] has finished in [591] ms
+07-May-2019 21:17:06.289 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples]
+07-May-2019 21:17:07.729 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:07.763 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples] has finished in [1,474] ms
+07-May-2019 21:17:07.764 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager]
+07-May-2019 21:17:08.327 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:08.332 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager] has finished in [568] ms
+07-May-2019 21:17:08.333 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager]
+07-May-2019 21:17:08.895 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:08.898 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager] has finished in [565] ms
+07-May-2019 21:17:08.899 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT]
+07-May-2019 21:17:09.585 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:09.897 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT] has finished in [998] ms
+07-May-2019 21:17:09.897 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war]
+07-May-2019 21:17:11.208 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:17:11.572 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war] has finished in [1,675] ms
+07-May-2019 21:17:11.574 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:17:11.581 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:17:11.583 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 6817 ms
+07-May-2019 21:20:17.408 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.13
+07-May-2019 21:20:17.411 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 2 2018 14:27:55 UTC
+07-May-2019 21:20:17.411 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.13.0
+07-May-2019 21:20:17.411 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-May-2019 21:20:17.411 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2019 21:20:17.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2019 21:20:17.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+07-May-2019 21:20:17.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+07-May-2019 21:20:17.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2019 21:20:17.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:20:17.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:20:17.413 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\conf\logging.properties
+07-May-2019 21:20:17.413 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2019 21:20:17.413 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-May-2019 21:20:17.413 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-May-2019 21:20:17.414 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-May-2019 21:20:17.415 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:20:17.415 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:20:17.415 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\temp
+07-May-2019 21:20:17.416 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+07-May-2019 21:20:17.416 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-May-2019 21:20:17.416 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2019 21:20:17.421 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+07-May-2019 21:20:17.522 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:20:17.619 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:20:17.633 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:20:17.635 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:20:17.636 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 522 ms
+07-May-2019 21:20:17.659 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2019 21:20:17.659 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.13
+07-May-2019 21:20:18.412 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:18.443 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs]
+07-May-2019 21:20:19.076 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:19.080 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs] has finished in [637] ms
+07-May-2019 21:20:19.080 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples]
+07-May-2019 21:20:19.925 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:19.960 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples] has finished in [879] ms
+07-May-2019 21:20:19.960 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager]
+07-May-2019 21:20:20.575 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:20.580 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager] has finished in [620] ms
+07-May-2019 21:20:20.581 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager]
+07-May-2019 21:20:21.162 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:21.178 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager] has finished in [597] ms
+07-May-2019 21:20:21.178 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT]
+07-May-2019 21:20:21.834 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:22.172 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT] has finished in [994] ms
+07-May-2019 21:20:22.172 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war]
+07-May-2019 21:20:22.839 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:20:23.210 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war] has finished in [1,038] ms
+07-May-2019 21:20:23.212 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:20:23.220 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:20:23.222 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5585 ms
+07-May-2019 21:22:33.622 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.13
+07-May-2019 21:22:33.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 2 2018 14:27:55 UTC
+07-May-2019 21:22:33.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.13.0
+07-May-2019 21:22:33.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-May-2019 21:22:33.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2019 21:22:33.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\conf\logging.properties
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-May-2019 21:22:33.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-May-2019 21:22:33.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:22:33.627 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13
+07-May-2019 21:22:33.627 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\temp
+07-May-2019 21:22:33.627 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+07-May-2019 21:22:33.628 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-May-2019 21:22:33.628 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2019 21:22:33.632 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+07-May-2019 21:22:33.717 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:22:33.827 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:22:33.842 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:22:33.842 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-May-2019 21:22:33.842 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 512 ms
+07-May-2019 21:22:33.858 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2019 21:22:33.858 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.13
+07-May-2019 21:22:34.633 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:34.667 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs]
+07-May-2019 21:22:35.285 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:35.289 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\docs] has finished in [622] ms
+07-May-2019 21:22:35.290 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples]
+07-May-2019 21:22:36.116 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:36.163 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\examples] has finished in [873] ms
+07-May-2019 21:22:36.163 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager]
+07-May-2019 21:22:36.757 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:36.757 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\host-manager] has finished in [594] ms
+07-May-2019 21:22:36.757 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager]
+07-May-2019 21:22:37.335 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:37.338 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\manager] has finished in [581] ms
+07-May-2019 21:22:37.339 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT]
+07-May-2019 21:22:38.008 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:38.330 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\ROOT] has finished in [991] ms
+07-May-2019 21:22:38.330 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war]
+07-May-2019 21:22:38.985 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2019 21:22:39.334 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war] has finished in [1,004] ms
+07-May-2019 21:22:39.334 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2019 21:22:39.349 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-May-2019 21:22:39.349 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5508 ms

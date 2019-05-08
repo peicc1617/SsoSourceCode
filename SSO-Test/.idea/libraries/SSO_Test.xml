@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SSO-Test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SSO_Test_jar2/SSO-Test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

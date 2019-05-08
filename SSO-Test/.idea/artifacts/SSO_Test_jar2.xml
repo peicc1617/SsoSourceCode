@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact name="SSO-Test:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSO_Test_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="SSO-Test.jar">
+        <element id="module-output" name="SSO-Test" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.0.41" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.14" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-coyote:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jni:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.0.41" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.4.2" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util-scan:8.0.41" />
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.44" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.45" />
+      <element id="library" level="project" name="Maven: org.apache.wicket:wicket:1.3.2" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-api:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-catalina:8.0.41" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:8.0.41" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.4.2" />
+    </root>
+  </artifact>
+</component>

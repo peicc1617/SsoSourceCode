@@ -1,0 +1,572 @@
+08-May-2019 09:16:18.742 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 09:16:18.742 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 09:16:18.742 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@ff1f465')
+08-May-2019 09:56:01.822 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 09:56:01.822 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 09:56:01.822 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@43755e2f')
+08-May-2019 10:06:08.297 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 10:06:08.297 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 10:06:08.297 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6a4a2090')
+08-May-2019 10:20:03.378 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+08-May-2019 10:20:03.378 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+08-May-2019 10:20:04.220 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 10:20:04.220 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 10:20:04.221 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1a17f01e')
+08-May-2019 10:20:38.973 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 10:20:38.973 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 10:20:38.975 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@64757d56')
+08-May-2019 10:28:35.874 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 10:28:35.874 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 10:28:35.876 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@64757d56')
+08-May-2019 10:59:13.866 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 10:59:13.866 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 10:59:13.866 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 11:04:38.712 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 11:04:38.712 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 11:04:38.712 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 11:11:34.187 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 11:11:34.187 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 11:11:34.187 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 11:17:16.654 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 11:17:16.654 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 11:17:16.654 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 11:19:34.030 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 11:19:34.030 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 11:19:34.030 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@43755e2f')
+08-May-2019 11:19:37.435 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+08-May-2019 11:19:37.435 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+08-May-2019 11:19:45.554 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 11:19:45.554 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 11:19:45.554 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 11:24:15.517 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 11:24:15.517 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 11:24:15.517 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 12:41:48.048 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 12:41:48.048 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 12:41:48.048 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 12:46:02.085 严重 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationFilterConfig.release Failed to destroy the filter named [wicket.SSO-Test] of type [org.apache.wicket.protocol.http.WicketFilter]
+ java.lang.IllegalStateException: java.io.FileNotFoundException: E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war\WEB-INF\lib\fastjson-1.2.44.jar (系统找不到指定的路径。)
+	at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:101)
+	at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:256)
+	at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:281)
+	at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+	at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:216)
+	at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:225)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2260)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:834)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1297)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1157)
+	at org.apache.wicket.Application.internalDestroy(Application.java:887)
+	at org.apache.wicket.protocol.http.WebApplication.internalDestroy(WebApplication.java:447)
+	at org.apache.wicket.protocol.http.WicketFilter.destroy(WicketFilter.java:143)
+	at org.apache.catalina.core.ApplicationFilterConfig.release(ApplicationFilterConfig.java:301)
+	at org.apache.catalina.core.StandardContext.filterStop(StandardContext.java:4523)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5323)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1434)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1360)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1620)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1179)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1401)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1405)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1373)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.FileNotFoundException: E:\peicc1413\项目\创新方法\创新方法APP\ssoSourceCode\apache-tomcat-9.0.13\webapps\SSO_Test_war\WEB-INF\lib\fastjson-1.2.44.jar (系统找不到指定的路径。)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:164)
+	at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:149)
+	at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:307)
+	at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:97)
+	... 27 more
+
+08-May-2019 12:46:30.148 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 12:46:30.148 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 12:46:30.148 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 12:49:31.487 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 12:49:31.488 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 12:49:31.490 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 12:52:24.957 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 12:52:24.957 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 12:52:24.957 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 12:53:07.396 严重 [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/webresources] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [10] in the jsp file: [/userLogin.jsp]
+The method getMode() is undefined for the type SSOManager
+7:     SSOManager ssoManager = SSOManager.getInstance();
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+
+
+An error occurred at line: [11] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+
+
+An error occurred at line: [12] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+15:     if(referer==null) {
+
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [10] in the jsp file: [/userLogin.jsp]
+The method getMode() is undefined for the type SSOManager
+7:     SSOManager ssoManager = SSOManager.getInstance();
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+
+
+An error occurred at line: [11] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+
+
+An error occurred at line: [12] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+15:     if(referer==null) {
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:473)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 13:10:17.950 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 13:10:17.950 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 13:10:17.952 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 13:10:35.727 严重 [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/webresources] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [10] in the jsp file: [/userLogin.jsp]
+The method getMode() is undefined for the type SSOManager
+7:     SSOManager ssoManager = SSOManager.getInstance();
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+
+
+An error occurred at line: [11] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+
+
+An error occurred at line: [12] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+15:     if(referer==null) {
+
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [10] in the jsp file: [/userLogin.jsp]
+The method getMode() is undefined for the type SSOManager
+7:     SSOManager ssoManager = SSOManager.getInstance();
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+
+
+An error occurred at line: [11] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+8:     String formPostUrl="";
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+
+
+An error occurred at line: [12] in the jsp file: [/userLogin.jsp]
+The method getSsoLoginUrl() is undefined for the type SSOManager
+9:     String tokenSyncUrl="";
+10:     if(ssoManager.getMode()==SSOManager.CLIENT_MODE){
+11:         formPostUrl=ssoManager.getSsoLoginUrl();
+12:         tokenSyncUrl=ssoManager.getSsoLoginUrl();
+13:     }
+14:     String referer = request.getParameter("serviceURL");
+15:     if(referer==null) {
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:473)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 13:11:23.969 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 13:11:23.969 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 13:11:23.969 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 13:12:03.695 严重 [http-nio-8080-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception
+ java.lang.NullPointerException
+	at xjtucad.dao.BaseDao.executeQuery(BaseDao.java:76)
+	at xjtucad.dao.UserDao.validateUsername(UserDao.java:86)
+	at xjtucad.controller.Login.doPost(Login.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 14:05:16.086 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 14:05:16.086 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 14:05:16.089 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7bc2bb58')
+08-May-2019 15:13:03.212 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 15:13:03.212 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 15:13:03.213 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@131ef10')
+08-May-2019 15:18:07.682 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 15:18:07.682 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 15:18:07.683 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2f8dad04')
+08-May-2019 15:18:35.622 严重 [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception [Servlet execution threw an exception] with root cause
+ java.lang.ClassNotFoundException: com.alibaba.fastjson.JSONObject
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at xjtucad.controller.Login.doGet(Login.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 15:35:10.659 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 15:35:10.659 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 15:35:10.659 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2f8dad04')
+08-May-2019 15:35:16.023 严重 [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception [Servlet execution threw an exception] with root cause
+ java.lang.ClassNotFoundException: com.alibaba.fastjson.JSONObject
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at xjtucad.controller.Login.doGet(Login.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 15:46:46.975 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 15:46:46.975 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 15:46:46.975 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@73700b80')
+08-May-2019 15:46:54.523 严重 [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception [Servlet execution threw an exception] with root cause
+ java.lang.ClassNotFoundException: com.alibaba.fastjson.JSONObject
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at xjtucad.controller.Login.doGet(Login.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 15:47:00.033 严重 [http-nio-8080-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception [Servlet execution threw an exception] with root cause
+ java.lang.NoClassDefFoundError: com/alibaba/fastjson/JSONObject
+	at xjtucad.controller.Login.doGet(Login.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 15:47:18.899 严重 [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception [Servlet execution threw an exception] with root cause
+ java.lang.NoClassDefFoundError: com/alibaba/fastjson/JSONObject
+	at xjtucad.controller.Login.doGet(Login.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 16:34:36.709 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:34:36.709 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:34:36.711 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7749bf93')
+08-May-2019 16:34:59.123 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:34:59.123 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:34:59.124 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7749bf93')
+08-May-2019 16:40:20.267 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:40:20.267 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:40:20.268 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7749bf93')
+08-May-2019 16:45:23.414 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:45:23.414 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:45:23.416 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@8c3619e')
+08-May-2019 16:47:39.739 严重 [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [login] in context with path [/webresources] threw exception
+ java.lang.NullPointerException
+	at xjtucad.dao.BaseDao.executeQuery(BaseDao.java:76)
+	at xjtucad.dao.UserDao.validateUsername(UserDao.java:86)
+	at xjtucad.controller.Login.doPost(Login.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at xjtucad.filter.CAIFilter.doFilter(CAIFilter.java:34)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-May-2019 16:48:32.209 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:48:32.209 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:48:32.211 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@38f2e97e')
+08-May-2019 16:50:28.795 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:50:28.795 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:50:28.796 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@38f2e97e')
+08-May-2019 16:52:32.832 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:52:32.832 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:52:32.834 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@38f2e97e')
+08-May-2019 16:54:05.180 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 16:54:05.180 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 16:54:05.181 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@38f2e97e')
+08-May-2019 17:01:25.374 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 17:01:25.374 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 17:01:25.375 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@497570fb')
+08-May-2019 17:10:29.817 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+08-May-2019 17:10:29.817 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+08-May-2019 17:10:29.818 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@56febdc')
